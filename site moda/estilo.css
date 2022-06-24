@@ -1,0 +1,89 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+body{font-family: tahoma;
+width: 1024px;
+margin: 50px auto;
+text-align: center;}
+
+nav{height: 50px;}
+
+.navbar{background-color: rgb(0, 40, 78);
+display: flex;
+justify-content: flex-end;
+}
+
+nav img{
+    height: 35px;
+margin: 5px 0 0px 0;
+margin-right: 330px;}
+
+
+nav a{ color: #ccc;
+text-decoration: none;
+text-transform: uppercase;
+margin:auto 0
+;margin-right: 55px;
+letter-spacing: 5px;
+font-size: 13px;
+}
+
+nav a:hover{color: white;
+background-color: rgb(48, 48, 48);}
+
+
+
+section h1 { margin: 100px 0 50px 0;
+font-size: 36px;
+color: rgb(51, 49, 49);}
+
+.secao1 p{
+    line-height: 2;
+    font-size: 16px;
+}
+
+.secao-moda{display: flex;
+justify-content: center;
+margin-bottom: 150px;}
+
+.secao-moda img{ margin: 150px 15px 0 15px}
+
+.titulo2{ letter-spacing: 5px;
+font-weight: bold;
+text-transform: uppercase;
+color: rgb(44, 43, 43);}
+
+.secao3{ background-image: url(/css/imagens/bg_detalhe.png);
+background-color: rgb(0, 60, 83);
+height: 500px;
+background-position: right bottom;
+background-repeat: no-repeat;
+text-align: left;
+color: aliceblue;}
+
+.secao3 h2{
+padding: 50px;
+font-size: 46px;
+font-weight: none;
+text-transform: uppercase;}
+
+.secao3 p{width: 40%;
+margin: 10px 50px 50px 50px;}
+
+
+.contato{color: rgb(3, 50, 88);
+text-transform: uppercase;
+margin: 40px 0;}
+
+iframe { width: 100%;}
+
+footer {background-color: rgb(2, 43, 53) ;
+padding: 30px;
+color: rgb(82, 81, 81);} 
+
+
+
+
+
+
+
