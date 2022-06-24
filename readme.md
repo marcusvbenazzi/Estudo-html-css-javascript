@@ -1,1 +1,1 @@
-Aqui é o repositorios do meu estudo de HTML, CSS e Javacript
+Aqui é o repositorios do meu estudo de HTML, CSS e Javacript.
